@@ -2,20 +2,20 @@
 
 ## Basic Idea
 
-Here we have designed a ailine reservatiion system for an imaginary aiine company to manage flights and flight reservations.
+Here we have designed a airline reservatiion system for an imaginary airline company to manage flights and flight reservations.
 We try to add two UIs,<br> 
 1. for users to book flights and see flight details
 2. for admin section to see reservaion details and flight details<br>
 
-We are trying to build this without using any pre-built libraries and frameworks
+We are trying to build this without using any pre-built libraries and frameworks.
 
-**You will need to use XAMPP server to run and see this code**
+**You will need to use XAMPP server to run and see this code.**
 
 ## Project Structure
 
 ### mySQL database
 
-we added 11 tables to work out whole system
+we added 11 tables to work out whole system.
 
 1. aircraft - here we keep details about all planes 
 2. aircraft_model - using this table to track seat capasity of each plane
@@ -35,5 +35,5 @@ we added 11 tables to work out whole system
 
 In admin side we added CRUD operations to all tables mentioned above. CRUD operations of reservations table is responsibility of client side.
 
-contact : kumudu.20@cse.mrt.ac.lk for anything regarding to this
+contact : kumudu.20@cse.mrt.ac.lk for anything regarding to this.
            
