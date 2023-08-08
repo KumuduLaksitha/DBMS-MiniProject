@@ -29,6 +29,7 @@ we added 11 tables to work out whole system.
 10. user - details about registered users
 11. user_type - user types (gold, frequent, guest) and their speacial discounts
 
+
 ![sql-structure](sql-structure.png)
 
 ### php structure
